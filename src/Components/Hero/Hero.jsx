@@ -2,7 +2,6 @@ import React from 'react'
 import "./Hero.css"
 import profile_img from "../../assets/profile-pic.jpg"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import resumepdf from "../../assets/Prashant_resume.pdf"
 
 function Hero() {
   return (
@@ -17,8 +16,8 @@ function Hero() {
           </AnchorLink>
         </div>
         <a 
-          className="hero-resume" 
-          href={resumepdf} 
+          className="hero-resume"
+          href="https://drive.google.com/file/d/1RuqrtqxYG1JsMxkjr3gQYY1zVCYt5K78/view"
           target="_blank" 
           rel="noopener noreferrer"
         >
