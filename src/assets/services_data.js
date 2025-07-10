@@ -1,7 +1,7 @@
 const Services_Data = [
     {
         s_year:"Aug 2023 - May 2027",
-        s_degree:"BTECH in Computer Science Specialization in AI/ML",
+        s_degree:"BTECH In Computer Science Specialization in AI/ML",
         s_place:"SRM Institute Of Science And Technology",
         s_desc:"I am currently pursuing a B.Tech degree at SRMIST."
     },

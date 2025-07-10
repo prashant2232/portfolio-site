@@ -22,11 +22,11 @@
 .mywork-title h1::after {
     content: '';
     position: absolute;
-    left: 30px; /* aligns with padding-left */
-    bottom: -10px; /* space below the text */
-    width: calc(100% - 60px); /* match inner width excluding padding */
+    left: 30px; 
+    bottom: -10px;
+    width: calc(100% - 60px);
     height: 4px;
-    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
+    background: linear-gradient(250deg, #43cea2 0%, #185a9d 100%);
     border-radius: 2px;
 }
 
