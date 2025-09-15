@@ -17,7 +17,7 @@ function Hero() {
         </div>
         <a 
           className="hero-resume"
-          href="https://drive.google.com/file/d/1k5lsAB8q6-OdyfbjglMAc3doNS368q50/view?usp=sharing"
+          href="https://drive.google.com/file/d/11bhb_Y_0MmmM37dP664rg_TCj3PmOBfl/view?usp=sharing"
           target="_blank" 
           rel="noopener noreferrer"
         >
